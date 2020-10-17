@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am new to *programming* and will work at it to get better.
+I have an interest in __JavaScript__ and hopefully can build a bot with *discord.js*.
