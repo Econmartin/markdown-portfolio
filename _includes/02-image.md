@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Picture of economy](https://www.heritage.org/sites/default/files/styles/slide_cover_xl/public/images/2018-08/Economy.jpg?itok=BzAjL8xk)
